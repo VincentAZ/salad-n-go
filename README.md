@@ -29,3 +29,7 @@ Built with [Vite](https://vite.dev) and [Leaflet](https://leafletjs.com), using 
 Locations come from KTAR News (Oct 14, 2026). No opening dates have been announced yet. The list is in `scripts/locations.raw.json`. `npm run geocode` turns it into map coordinates in `src/locations.json` using OpenStreetMap. A few pins were placed by hand at the nearest intersection, so treat pin positions as approximate.
 
 Not affiliated with Salad and Go or any of the brands listed.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
