@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Who's Taking Over Your Salad and Go?</title>
+  <meta name="description" content="Interactive map of every Phoenix-area Salad and Go and what's replacing it — 7 Brew, Swig, Dutch Bros, Just Salad, Brew Culture and more." />
+  <meta property="og:title" content="Who's Taking Over Your Salad and Go?" />
+  <meta property="og:description" content="Find out what's replacing the Salad and Go near you. Map + guessing game." />
+  <meta name="theme-color" content="#111111" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥗</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800;900&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="top">
+    <div class="title">
+      <span class="eyebrow">Phoenix Metro · Drive-thru shake-up</span>
+      <h1>Who's taking over your <em>Salad and Go?</em></h1>
+    </div>
+    <div class="chips" id="chips" aria-label="Filter by brand"></div>
+  </header>
+
+  <main class="layout">
+    <section class="map-wrap">
+      <div id="map" aria-label="Map of locations"></div>
+      <div class="map-tools">
+        <button id="btn-near" class="tool">📍 Near me</button>
+        <button id="btn-all" class="tool">🔭 Show all</button>
+        <button id="btn-reset" class="tool" title="Reset map, filters and search">↺ Reset</button>
+      </div>
+      <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    </section>
+
+    <aside class="panel">
+      <nav class="tabs" role="tablist">
+        <button class="tab active" data-tab="list" role="tab">🗺️ Find yours</button>
+        <button class="tab" data-tab="game" role="tab">🎯 Guess the takeover</button>
+      </nav>
+
+      <div class="tab-body" id="tab-list">
+        <label class="search">
+          <span aria-hidden="true">🔎</span>
+          <input id="search" type="search" placeholder="Search a street or city…" autocomplete="off" />
+        </label>
+        <div id="nearest"></div>
+        <div id="list"></div>
+      </div>
+
+      <div class="tab-body hidden" id="tab-game">
+        <div id="game"></div>
+      </div>
+
+      <footer class="cta">
+        <p class="cta-hook">New drive-thru, new neighborhood? 🏡</p>
+        <p class="cta-name">Jim Caravello <span>REALTOR®</span></p>
+        <div class="cta-actions">
+          <a class="cta-btn" href="tel:+14802361790">📞 480-236-1790</a>
+          <a class="cta-btn ghost" href="https://instagram.com/azhomehelper" target="_blank" rel="noopener">@azhomehelper</a>
+        </div>
+        <p class="cta-sub">Buy · Sell · Invest — HomeSmart</p>
+        <p class="source">Source: KTAR News, Oct 14, 2026 · No opening dates announced yet. Pins are approximate.</p>
+      </footer>
+    </aside>
+  </main>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

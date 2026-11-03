@@ -1,0 +1,488 @@
+[
+ {
+  "city": "Avondale",
+  "address": "1585 N Dysart Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.4633116,
+  "lng": -112.340453,
+  "precision": "address"
+ },
+ {
+  "city": "Casa Grande",
+  "address": "1322 E Florence Blvd",
+  "brand": "swig",
+  "pending": true,
+  "lat": 32.8799456,
+  "lng": -111.729831,
+  "precision": "address"
+ },
+ {
+  "city": "Chandler",
+  "address": "3095 E Queen Creek Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.262775,
+  "lng": -111.7910704,
+  "precision": "address"
+ },
+ {
+  "city": "Chandler",
+  "address": "2020 W Chandler Blvd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.3065022,
+  "lng": -111.8770607,
+  "precision": "address"
+ },
+ {
+  "city": "Chandler",
+  "address": "5985 W Chandler Blvd",
+  "brand": "dutch",
+  "pending": false,
+  "lat": 33.3042796,
+  "lng": -111.9450359,
+  "precision": "address"
+ },
+ {
+  "city": "Chandler",
+  "address": "4965 S Arizona Ave",
+  "brand": "dutch",
+  "pending": false,
+  "lat": 33.2338912,
+  "lng": -111.84109,
+  "precision": "address"
+ },
+ {
+  "city": "Gilbert",
+  "address": "910 S Cooper Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.3332882,
+  "lng": -111.8074312,
+  "precision": "address"
+ },
+ {
+  "city": "Gilbert",
+  "address": "1660 E Pecos Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.288573,
+  "lng": -111.6869718,
+  "precision": "address"
+ },
+ {
+  "city": "Gilbert",
+  "address": "7480 S Power Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.2803884,
+  "lng": -111.6868137,
+  "precision": "address"
+ },
+ {
+  "city": "Gilbert",
+  "address": "5218 E Baseline Rd",
+  "brand": "justsalad",
+  "pending": false,
+  "lat": 33.3797662,
+  "lng": -111.7197932,
+  "precision": "address"
+ },
+ {
+  "city": "Gilbert",
+  "address": "743 N Gilbert Rd",
+  "brand": "brewculture",
+  "pending": false,
+  "lat": 33.363454,
+  "lng": -111.7893111,
+  "precision": "address"
+ },
+ {
+  "city": "Gilbert",
+  "address": "3299 E Williams Field Rd",
+  "brand": "saladgo",
+  "pending": false,
+  "lat": 33.3063937,
+  "lng": -111.719077,
+  "precision": "address"
+ },
+ {
+  "city": "Glendale",
+  "address": "9121 W Glendale Ave",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.5370591,
+  "lng": -112.2555789,
+  "precision": "address"
+ },
+ {
+  "city": "Glendale",
+  "address": "18573 N 59th Ave",
+  "brand": "swig",
+  "pending": false,
+  "lat": 33.6533062,
+  "lng": -112.185677,
+  "precision": "address"
+ },
+ {
+  "city": "Goodyear",
+  "address": "17171 W Yuma Rd",
+  "brand": "swig",
+  "pending": false,
+  "lat": 33.4350575,
+  "lng": -112.4285832,
+  "precision": "address"
+ },
+ {
+  "city": "Goodyear",
+  "address": "125 N Estrella Pkwy",
+  "brand": "swig",
+  "pending": false,
+  "lat": 33.4485042,
+  "lng": -112.3924243,
+  "precision": "address"
+ },
+ {
+  "city": "Laveen",
+  "address": "7480 S 59th Ave",
+  "brand": "brewculture",
+  "pending": false,
+  "lat": 33.3791218,
+  "lng": -112.1856829,
+  "precision": "address"
+ },
+ {
+  "city": "Litchfield Park",
+  "address": "19485 W Indian School Rd",
+  "brand": "brewculture",
+  "pending": false,
+  "lat": 33.4860399,
+  "lng": -112.3585568,
+  "precision": "address"
+ },
+ {
+  "city": "Mesa",
+  "address": "251 S Power Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.4110789,
+  "lng": -111.6840245,
+  "precision": "address"
+ },
+ {
+  "city": "Mesa",
+  "address": "2814 S Signal Butte Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.3640338,
+  "lng": -111.6015809,
+  "precision": "address"
+ },
+ {
+  "city": "Mesa",
+  "address": "10031 E Southern Ave",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.3932,
+  "lng": -111.633,
+  "precision": "approx"
+ },
+ {
+  "city": "Mesa",
+  "address": "1956 S Country Club Dr",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.3792995,
+  "lng": -111.8411638,
+  "precision": "address"
+ },
+ {
+  "city": "Mesa",
+  "address": "5259 E Brown Rd",
+  "brand": "brewculture",
+  "pending": false,
+  "lat": 33.4369672,
+  "lng": -111.7165776,
+  "precision": "address"
+ },
+ {
+  "city": "Mesa",
+  "address": "1040 W Southern Ave",
+  "brand": "saladgo",
+  "pending": false,
+  "lat": 33.3933749,
+  "lng": -111.8548273,
+  "precision": "address"
+ },
+ {
+  "city": "Peoria",
+  "address": "8268 W Deer Valley Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.6816619,
+  "lng": -112.2370802,
+  "precision": "address"
+ },
+ {
+  "city": "Peoria",
+  "address": "8220 W Thunderbird Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.610094,
+  "lng": -112.2359566,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "21060 N Cave Creek Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.6774397,
+  "lng": -112.031147,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "12601 N Paradise Village Pkwy W",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.6006527,
+  "lng": -111.9878809,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "17155 N Tatum Blvd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.6421812,
+  "lng": -111.977056,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "710 E Dunlap Ave",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.5679655,
+  "lng": -112.0645365,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "1902 W Northern Ave",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.5534114,
+  "lng": -112.1000745,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "3333 W Peoria Ave",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.5815002,
+  "lng": -112.1324552,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "3233 E Indian School Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.4953137,
+  "lng": -112.0116575,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "2301 N 44th St",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.473089,
+  "lng": -111.986936,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "4716 E Ray Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.3200942,
+  "lng": -111.9828967,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "75th Ave & Lower Buckeye Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.4285,
+  "lng": -112.2215,
+  "precision": "approx"
+ },
+ {
+  "city": "Phoenix",
+  "address": "2006 W Pinnacle Peak Rd",
+  "brand": "dutch",
+  "pending": false,
+  "lat": 33.6987943,
+  "lng": -112.1028035,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "777 W Indian School Rd",
+  "brand": "swig",
+  "pending": false,
+  "lat": 33.4948227,
+  "lng": -112.0842131,
+  "precision": "address"
+ },
+ {
+  "city": "Phoenix",
+  "address": "719 E Bethany Home Rd",
+  "brand": "justsalad",
+  "pending": false,
+  "lat": 33.523398,
+  "lng": -112.0644112,
+  "precision": "address"
+ },
+ {
+  "city": "Queen Creek",
+  "address": "90 W Ocotillo Rd",
+  "brand": "swig",
+  "pending": false,
+  "lat": 33.2493337,
+  "lng": -111.5654724,
+  "precision": "address"
+ },
+ {
+  "city": "Queen Creek",
+  "address": "21429 S Ellsworth Rd",
+  "brand": "swig",
+  "pending": false,
+  "lat": 33.2535265,
+  "lng": -111.6346715,
+  "precision": "address"
+ },
+ {
+  "city": "San Tan Valley",
+  "address": "1754 W Hunt Hwy",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.1791179,
+  "lng": -111.5838072,
+  "precision": "address"
+ },
+ {
+  "city": "Scottsdale",
+  "address": "2323 N Scottsdale Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.473922,
+  "lng": -111.9256794,
+  "precision": "address"
+ },
+ {
+  "city": "Scottsdale",
+  "address": "13838 N Scottsdale Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.6128931,
+  "lng": -111.9266785,
+  "precision": "address"
+ },
+ {
+  "city": "Scottsdale",
+  "address": "15305 N 87th St",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.6255,
+  "lng": -111.8925,
+  "precision": "approx"
+ },
+ {
+  "city": "Surprise",
+  "address": "17137 N Litchfield Rd",
+  "brand": "swig",
+  "pending": false,
+  "lat": 33.6399637,
+  "lng": -112.3589567,
+  "precision": "address"
+ },
+ {
+  "city": "Surprise",
+  "address": "15437 W Cactus Rd",
+  "brand": "dutch",
+  "pending": false,
+  "lat": 33.5946759,
+  "lng": -112.3923964,
+  "precision": "address"
+ },
+ {
+  "city": "Surprise",
+  "address": "16885 W Bell Rd",
+  "brand": "justsalad",
+  "pending": false,
+  "lat": 33.6384951,
+  "lng": -112.4220601,
+  "precision": "address"
+ },
+ {
+  "city": "Tempe",
+  "address": "909 E Broadway Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.4070913,
+  "lng": -111.9256597,
+  "precision": "address"
+ },
+ {
+  "city": "Tempe",
+  "address": "1804 E Elliot Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.3492145,
+  "lng": -111.910948,
+  "precision": "address"
+ },
+ {
+  "city": "Tempe",
+  "address": "3229 S 48th St",
+  "brand": "swig",
+  "pending": false,
+  "lat": 33.3940271,
+  "lng": -111.9778198,
+  "precision": "address"
+ },
+ {
+  "city": "Tempe",
+  "address": "7800 S Priest Dr",
+  "brand": "dutch",
+  "pending": false,
+  "lat": 33.3470304,
+  "lng": -111.9636777,
+  "precision": "address"
+ },
+ {
+  "city": "Tolleson",
+  "address": "9875 W Lower Buckeye Rd",
+  "brand": "7brew",
+  "pending": false,
+  "lat": 33.4285,
+  "lng": -112.2695,
+  "precision": "approx"
+ },
+ {
+  "city": "Tucson",
+  "address": "1730 E Tucson Marketplace Blvd",
+  "brand": "swig",
+  "pending": false,
+  "lat": 32.1863351,
+  "lng": -110.9509906,
+  "precision": "address"
+ }
+]
