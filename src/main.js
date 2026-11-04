@@ -21,7 +21,15 @@ const active = new Set(Object.keys(BRANDS));
 let userPos = null;
 
 /* ---------- Map ---------- */
-const map = L.map('map', { zoomControl: false, attributionControl: true }).setView([33.45, -112.0], 10);
+const map = L.map('map', {
+  zoomControl: false,
+  attributionControl: true,
+  // Fluid zoom: no snapping to integer levels, small wheel steps
+  zoomSnap: 0,
+  zoomDelta: 0.5,
+  wheelPxPerZoomLevel: 120,
+  wheelDebounceTime: 10,
+}).setView([33.45, -112.0], 10);
 L.control.zoom({ position: 'bottomright' }).addTo(map);
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19,
